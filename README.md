@@ -1,4 +1,7 @@
 # Ecommerce_sales_dashboard_Power_BI
+
+![image](https://github.com/umatuteja/Ecommerce_sales_dashboard_Power_BI/assets/146737480/4ca2fcb5-5818-42e5-a085-b8dae7cf2f51)
+
 Dashboard link(need access to view) :https://app.powerbi.com/links/sb0NQH-qzF?ctid=9aee26d8-97c2-4fad-8900-96735f6dc73f&pbi_source=linkShare
 
 Created a Ecommerce_sales_dashboard for US Based Ecommerce Sales Company using Power BI showing information of YTD Sales and generate insights.
@@ -18,4 +21,3 @@ icon for each category.
 
 Note : Data files attached ecommerce_data.csv and us_state_long_lat_codes.csv
 
-![image](https://github.com/umatuteja/Ecommerce_sales_dashboard_Power_BI/assets/146737480/4ca2fcb5-5818-42e5-a085-b8dae7cf2f51)
