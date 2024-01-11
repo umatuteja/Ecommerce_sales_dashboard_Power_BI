@@ -1,4 +1,5 @@
 # Ecommerce_sales_dashboard_Power_BI
+Dashboard link(need access to view) :https://app.powerbi.com/links/sb0NQH-qzF?ctid=9aee26d8-97c2-4fad-8900-96735f6dc73f&pbi_source=linkShare
 
 Created a Ecommerce_sales_dashboard for US Based Ecommerce Sales Company using Power BI showing information of YTD Sales and generate insights.
 
